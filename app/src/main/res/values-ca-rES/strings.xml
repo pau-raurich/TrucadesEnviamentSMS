@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrucadaSMS</string>
+    <string name="sms_sent">SMS enviat</string>
+    <string name="invalid_num">No hi ha un número de telèfon valid</string>
+    <string name="num_limit">Has arribat el limit de números</string>
+    <string name="sms_empty">No es pot enviar un sms buit</string>
+    <string name="default_number">000-000-000</string>
+    <string name="default_message">Missatge</string>
+</resources>
